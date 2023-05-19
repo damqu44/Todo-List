@@ -1,0 +1,8 @@
+.tasks {
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px 0 45px 0;
+  }
+  
